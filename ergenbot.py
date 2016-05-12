@@ -55,4 +55,4 @@ if __name__ == '__main__':
 	with open(filename, 'rt') as f:
 		text = f.read()		
 
-	bot(api, text, first_wno=word_no, duration=1, send_tweets=send)
+	bot(api, text, first_wno=word_no, duration=duration, send_tweets=send)
