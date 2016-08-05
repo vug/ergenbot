@@ -1,0 +1,4 @@
+*.pyc
+__pycache__
+secrets.py
+komunist_manifesto.txt
